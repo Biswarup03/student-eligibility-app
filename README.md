@@ -4,3 +4,5 @@ This is a Streamlit web app that helps you check whether a student is eligible t
 
 It uses a simple machine learning model (Logistic Regression) trained on
 
+## 📱 Live Demo: [https://student-eligibility-app-pqraipbayc44pkkpanf2k3.streamlit.app/]
+
